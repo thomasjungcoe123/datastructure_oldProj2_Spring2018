@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\pc\source\repos\project2third\project2third\main.cpp(170): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\pc\source\repos\project2third\project2third\main.cpp(180): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\pc\source\repos\project2third\project2third\main.cpp(258): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\pc\source\repos\project2third\project2third\main.cpp(262): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\pc\source\repos\project2third\project2third\main.cpp(271): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\pc\source\repos\project2third\project2third\main.cpp(276): warning C4305: 'argument': truncation from 'double' to 'float'
+  Project2Third.vcxproj -> C:\Users\PC\source\repos\Project2Third\Debug\Project2Third.exe

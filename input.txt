@@ -1,0 +1,19 @@
+17
+Year,Cause-Name,State,Deaths,Age-adjusted-Death-Rate
+2000,Unintentional Injuries,Oklahoma,1566,44.9
+2000,All Causes,Oklahoma,35079,983
+2000,Alzheimer's disease,Oklahoma,638,17.7
+2000,Homicide,Oklahoma,200,5.9
+2000,Stroke,Oklahoma,2493,69.5
+2000,Chronic liver disease and cirrhosis,Oklahoma,348,10
+2000,CLRD,Oklahoma,1980,55.2
+2000,Diabetes,Oklahoma,978,27.5
+2000,Diseases of Heart,Oklahoma,11297,315
+2000,Essential hypertension and hypertensive renal disease,Oklahoma,218,6.1
+2000,Influenza and pneumonia,Oklahoma,885,24.6
+2000,Suicide,Oklahoma,497,14.6
+2000,Cancer,Oklahoma,7402,207.4
+2000,Kidney Disease,Oklahoma,536,15
+2000,Parkinson's disease,Oklahoma,197,5.5
+2000,Pneumonitis due to solids and liquids,Oklahoma,246,6.9
+2000,Septicemia,Oklahoma,427,12
